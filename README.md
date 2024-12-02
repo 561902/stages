@@ -1,5 +1,10 @@
 # StageMatch - Simplify your internship search
 
+## 🎥 Démonstration
+[![Regardez la démo de StageMatch](https://img.youtube.com/vi/eXYWbHQKj3o/0.jpg)](https://youtu.be/eXYWbHQKj3o)
+
+*Cliquez sur l'image ci-dessus pour voir la démonstration complète du projet*
+
 ## Inspiration
 La recherche de stage est souvent un parcours du combattant pour les étudiants marocains. En discutant avec des amis et des professionnels, nous avons constaté que le processus était inefficace des deux côtés : les étudiants passent des semaines à postuler sans retour, pendant que les entreprises peinent à trouver les bons profils. Cette frustration partagée nous a inspiré à créer StageMatch.
 
